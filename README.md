@@ -1,7 +1,7 @@
 # Encrypter-Decrypter
 Producer - Consumer problem implemented as Encrypter and Decrypter
 
-Do the following actions:
+# Do the following actions:
 	1) unzip "Exersice2" to an empty directory
 	2) run through the bash terminal: make
   	3) run through the bash terminal: sudo ./ex2 -n <Number_Of_Decrypters> -l <Password_Length> -t <Seconds_To_Wait_For_Encrypter>
