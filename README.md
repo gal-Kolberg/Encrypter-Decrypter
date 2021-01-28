@@ -11,6 +11,6 @@ Producer - Consumer problem implemented as Encrypter and Decrypter
 	1) the order of the keys can be different
 	2) the key '-t' is optional
 	3) the keys can be short or long:
-			i.	  for '-n' you can write '--num-of-decrypters'
-			ii.	  for '-l' you can write '--password-length'
+			i.	for '-n' you can write '--num-of-decrypters'
+			ii.	for '-l' you can write '--password-length'
 			iii.	for '-t' you can write '--timeout'
